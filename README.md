@@ -2,8 +2,6 @@
 
 Amba to Blow adalah sebuah permainan interaktif berbasis mikrokontroler ESP32 yang menguji ketepatan, pengambilan keputusan, dan manajemen tekanan pemain. Sistem ini mereplikasi ketegangan skenario penjinakan bom melalui antarmuka perangkat keras fisik, yang diperkuat dengan umpan balik visual dari layar OLED dan efek suara dari buzzer.
 
-![Amba to Blow Banner](link_gambar_banner_atau_foto_proyek_anda_disini.jpg)
-
 ## 🎮 Mekanika Permainan & Pengalaman Pengguna
 
 Permainan ini dirancang dengan alur logika yang lugas namun menantang, memaksa pemain untuk tetap tenang dengan menggunakan sistem toleransi kesalahan yang ketat:
