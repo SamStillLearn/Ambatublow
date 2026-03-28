@@ -23,7 +23,7 @@ Untuk membangun proyek ini, Anda akan membutuhkan komponen-komponen berikut:
 
 * 1x ESP32 Development Board
 * 1x Layar OLED 0.96" (I2C)
-* 5x Push Button (Tombol Taktil)
+* 6x Push Button (Tombol Taktil)
 * 1x Buzzer Aktif
 * Breadboard & Kabel Jumper secukupnya
 
