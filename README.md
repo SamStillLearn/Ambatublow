@@ -15,7 +15,7 @@ Permainan ini dirancang dengan alur logika yang lugas namun menantang, memaksa p
 * **✅ Kondisi Berhasil:** Menekan tombol yang tepat sebelum jatah kesalahan habis akan menonaktifkan sistem, memicu pesan kemenangan di layar dan nada keberhasilan dari buzzer.
 * **🔀 Sistem Acak Dinamis:** Posisi tombol "Defuse" diacak secara otomatis oleh algoritma ESP32 pada setiap ronde baru, memastikan tingkat putar ulang (*replayability*) yang tinggi.
 
----
+----
 
 ## 🛠️ Komponen yang Dibutuhkan
 
